@@ -1,0 +1,2 @@
+# starter-academic
+Initial try
